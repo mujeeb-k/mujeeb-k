@@ -27,7 +27,7 @@ SAP can tell you an invoice failed a three-way match. It usually cannot tell you
 
 ---
 
-### Quantitative finance
+### Quantitative finance projects
 
 - **[mbs-val](https://github.com/mujeeb-k/mbs-val)** — Mortgage-backed security valuation
 - **[dtd](https://github.com/mujeeb-k/dtd)** — Distance-to-default using a market-value proxy method and a volatility-constrained method
