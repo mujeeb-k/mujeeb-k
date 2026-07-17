@@ -4,11 +4,11 @@ Bachelor's in Computer Science and Engineering
 
 Master's in Quantitative Finance
 
-Early work on valuation models, credit risk, and systematic trading tools.
+My early work focused on valuation models, credit risk, and systematic trading tools.
 
 I'm working on agent workflows for invoice exceptions, workforce plans, financial research, and the prompt layer in front of coding agents.
 
-I care less about AI replacing people than about AI making the hard parts of a job faster to do well: gather the evidence, surface a recommendation, leave the call with the human.
+I believe AI should help people investigate faster, make better decisions, and stay in control of the outcome.
 
 ---
 
