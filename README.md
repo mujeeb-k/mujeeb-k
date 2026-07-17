@@ -1,38 +1,28 @@
-### Agentic engineering for decisions that need a human in the loop
+### Hi, I'm Mujeeb
 
-I build systems where models do the heavy lift — draft, diagnose, route — and people keep the final call. Philly-based. Background in quantitative finance; currently focused on deterministic, approval-gated agent workflows.
-
-**Stack:** TypeScript · Python · React · Streamlit · SAP CAP · LLMs
+I have a Master's in Quantitative Finance. These days I'm focused on **agentic engineering** — building systems where models draft, diagnose, and route work, and people keep the final call.
 
 ---
 
-#### Featured work
+### Featured work
 
-**[Averroes](https://github.com/mujeeb-k/averroes-public)** — [Live demo](https://averroes-llm.vercel.app/)  
-Evaluates prompts as you write them and rewrites weak ones before they hit the model.
+#### [Averroes](https://github.com/mujeeb-k/averroes-public)
+Prompt quality, before the model sees it. Averroes evaluates prompts as you write them and rewrites weak ones so the underlying model gets a better shot.  
+→ [Try the live demo](https://averroes-llm.vercel.app/)
 
-**[AP Three-Way Matching Agent](https://github.com/mujeeb-k/AP-Three-Way-Matching-Agent)**  
-Approval-gated SAP AP pilot that detects, diagnoses, and routes three-way match discrepancies.
+#### [AP Three-Way Matching Agent](https://github.com/mujeeb-k/AP-Three-Way-Matching-Agent)
+An approval-gated SAP AP pilot for three-way match exceptions. It detects discrepancies, diagnoses the likely cause, and routes them for human review instead of auto-posting bad matches.
 
-**[Workforce Planning Agent](https://github.com/mujeeb-k/workforce-planning-agent)**  
-Turns a headcount target into a costed move / reskill / hire plan for executive briefings.
+#### [Workforce Planning Agent](https://github.com/mujeeb-k/workforce-planning-agent)
+Executive workforce planning in a briefing-ready format: give it a headcount target, get a costed move / reskill / hire plan you can actually discuss.
 
-<details>
-<summary>Earlier quantitative work</summary>
+---
 
-<br>
+### Quantitative finance
+
+Earlier work on valuation, credit risk, and systematic strategies:
 
 - **[mbs-val](https://github.com/mujeeb-k/mbs-val)** — Mortgage-backed security valuation
-- **[dtd](https://github.com/mujeeb-k/dtd)** — Distance-to-default via market-value proxy & volatility constraints
-- **[us-delinquency-forecast](https://github.com/mujeeb-k/us-delinquency-forecast)** — U.S. delinquency rates from economic data
+- **[dtd](https://github.com/mujeeb-k/dtd)** — Distance-to-default (market-value proxy & volatility-constrained methods)
+- **[us-delinquency-forecast](https://github.com/mujeeb-k/us-delinquency-forecast)** — Forecasting U.S. delinquency rates from economic data
 - **[strat-backtest](https://github.com/mujeeb-k/strat-backtest)** — Trading strategy backtests
-
-I write about markets and systems on [Medium](https://medium.com/@lassoregression).
-
-</details>
-
----
-
-#### Elsewhere
-
-[LinkedIn](https://www.linkedin.com/in/mujeeeb) · [Medium](https://medium.com/@lassoregression) · Philly
