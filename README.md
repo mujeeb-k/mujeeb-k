@@ -13,7 +13,9 @@ I enjoy turning ambiguous business problems into practical systems that people c
 ### Featured work
 
 #### [Averroes](https://github.com/mujeeb-k/averroes-public)
-Coding agents do not usually fail because the model is dumb. They fail because the request was vague, overloaded, or missing the constraint that mattered. Averroes is meant to sit in front of that handoff as a prompt-quality gateway: take a rough ask, tighten it, then pass a sharper instruction to whatever coding model or agent you already use. In the active path, a coach walks the request through a short dialogue until it is specific enough to run. In the passive path, it watches as you type and flags weak prompts before they reach the agent. The piece shipping today is that coach loop in a chat UI (Commentator critique after each turn, Workshop mode when you still need to invent the prompt). Open the demo, give it a messy coding ask, and see what comes back.
+AI workflows often break down because the request is vague, overloaded, or missing an important constraint. Averroes currently works as a prompt coach. You chat with the main model while a separate coach reads the exchange, points out where the prompt could be clearer, and suggests a stronger version. Workshop mode helps turn a rough idea into a usable instruction.
+
+A coding agent gateway is one direction for the project. It could refine a coding request through a short conversation or flag problems as you type before sending the request to an agent. Try the current demo with a messy prompt to see how the coaching loop works.
 
 [Try the live demo here](https://averroes-llm.vercel.app/)
 
