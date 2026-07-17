@@ -12,13 +12,6 @@ I enjoy turning ambiguous business problems into practical systems that people c
 
 ### Featured work
 
-#### [Averroes](https://github.com/mujeeb-k/averroes-public)
-AI workflows often break down because the request is vague, overloaded, or missing an important constraint. Averroes currently works as a prompt coach. You chat with the main model while a separate coach reads the exchange, points out where the prompt could be clearer, and suggests a stronger version. Workshop mode helps turn a rough idea into a usable instruction.
-
-A coding agent gateway is one direction for the project. It could refine a coding request through a short conversation or flag problems as you type before sending the request to an agent. Try the current demo with a messy prompt to see how the coaching loop works.
-
-[Try the live demo here](https://averroes-llm.vercel.app/)
-
 #### [Workforce Planning Agent](https://github.com/mujeeb-k/workforce-planning-agent)
 A headcount target is not a hiring number. This Streamlit prototype takes a role, target headcount, deadline, and budget, then builds an executive briefing: who is already confirmed capable, who can move from another team, who is one course away, who needs manager verification, and how many people still have to be hired externally. Each action is costed and sequenced against an all-external baseline, with confidence tied to whether the skill evidence is trusted or self-declared.
 
@@ -26,6 +19,13 @@ A headcount target is not a hiring number. This Streamlit prototype takes a role
 
 #### [AP Three-Way Matching Agent](https://github.com/mujeeb-k/AP-Three-Way-Matching-Agent)
 SAP can tell you an invoice failed a three-way match. It usually cannot tell you why, or what to do next. This pilot compares supplier invoices against purchase orders and goods receipts, classifies the failure across 14 discrepancy types (price variance, missing receipt, wrong PO, duplicate invoice, and so on), explains the root cause, and routes the case to correct, review, or escalate. Nothing writes back without human approval. Runs on synthetic data so you can open it and follow a full exception from detection through the work queue.
+
+#### [Averroes](https://github.com/mujeeb-k/averroes-public)
+AI workflows often break down because the request is vague, overloaded, or missing an important constraint. Averroes currently works as a prompt coach. You chat with the main model while a separate coach reads the exchange, points out where the prompt could be clearer, and suggests a stronger version. Workshop mode helps turn a rough idea into a usable instruction.
+
+The next step is to bring this coaching layer into coding-agent workflows. An active mode would ask follow-up questions and turn a rough request into a precise instruction before passing it to the coding agent. A passive mode would review the prompt as you type and flag missing context or unclear requirements before you send it. The current demo shows the prompt-coaching system behind both ideas.
+
+[Try the live demo here](https://averroes-llm.vercel.app/)
 
 ---
 
