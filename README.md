@@ -1,6 +1,14 @@
 ### Hi, I'm Mujeeb
 
-I have a Master's in Quantitative Finance. Early on that meant valuation models, credit risk, and systematic trading tools. Now I build agent workflows for operational decisions: invoice exceptions, workforce plans, and the prompt layer in front of coding agents. The pattern is the same across them. The system investigates and recommends; a person still approves anything that matters.
+Bachelor's in Computer Science and Engineering
+
+Master's in Quantitative Finance
+
+Early work on valuation models, credit risk, and systematic trading tools.
+
+I'm working on agent workflows for invoice exceptions, workforce plans, financial research, and the prompt layer in front of coding agents.
+
+I care less about AI replacing people than about AI making the hard parts of a job faster to do well: gather the evidence, surface a recommendation, leave the call with the human.
 
 ---
 
