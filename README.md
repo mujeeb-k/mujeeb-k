@@ -1,13 +1,13 @@
 ### Hi, I'm Mujeeb
 
-I have a Master's in Quantitative Finance. Early on that meant valuation models, credit risk, and systematic trading tools. Now I build agent workflows for operational decisions: invoice exceptions, workforce plans, prompt quality. The pattern is the same across them. The system investigates and recommends; a person still approves anything that matters.
+I have a Master's in Quantitative Finance. Early on that meant valuation models, credit risk, and systematic trading tools. Now I build agent workflows for operational decisions: invoice exceptions, workforce plans, and the prompt layer in front of coding agents. The pattern is the same across them. The system investigates and recommends; a person still approves anything that matters.
 
 ---
 
 ### Featured work
 
 #### [Averroes](https://github.com/mujeeb-k/averroes-public)
-Most chat apps only answer you. Averroes also coaches you. You talk to a main model as usual, while a separate coach (the Commentator) reads the exchange, calls out weak prompting, and proposes a tighter version you can paste back. Workshop mode is for when you do not have a prompt yet: a short dialogue whose only job is to produce one solid instruction before you settle into normal chat. You can attach PDF, DOCX, or plain text so both the assistant and the coach share the same context.
+Coding agents do not usually fail because the model is dumb. They fail because the request was vague, overloaded, or missing the constraint that mattered. Averroes is meant to sit in front of that handoff as a prompt-quality gateway: take a rough ask, tighten it, then pass a sharper instruction to whatever coding model or agent you already use. In the active path, a coach walks the request through a short dialogue until it is specific enough to run. In the passive path, it watches as you type and flags weak prompts before they reach the agent. The piece shipping today is that coach loop in a chat UI (Commentator critique after each turn, Workshop mode when you still need to invent the prompt). Open the demo, give it a messy coding ask, and see what comes back.
 
 [Live demo](https://averroes-llm.vercel.app/)
 
