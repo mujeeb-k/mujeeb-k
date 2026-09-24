@@ -1,14 +1,14 @@
 ### Hi, I'm Mujeeb
 
-My recent work explores how AI can improve operational processes, gather evidence, and recommend next actions across workforce planning, financial research, enterprise operations, and developer productivity.
+My recent work explores how AI can improve operational processes, gather evidence, and recommend next actions across workforce planning, financial research, and enterprise operations.
 
-I hold a Bachelor's in Computer Science and Engineering and a Master's in Quantitative Finance. My earlier work included valuation models, credit risk, and systematic trading tools. That quantitative foundation continues to shape how I think about reliability, uncertainty, and decision-making.
+My earlier work included valuation models, credit risk, and systematic trading projects. That quantitative foundation continues to shape how I think about reliability, uncertainty, and decision-making.
 
 ---
 ### Featured work
 #### [Averroes](https://github.com/mujeeb-k/averroes-public)
 
-A chat interface with a parallel coach that reviews the user's request after each turn, identifies where it could be clearer, and suggests a revised version.
+A chat interface with a parallel coach that reviews the user's request after each turn, identifies where it could be clearer, and suggests a revised version. There's a 0->1 mode that offers a multi-turn experience, really effective for brainstorming.
 
 Built with Next.js and FastAPI.
 
@@ -22,7 +22,7 @@ Built with SAP CAP, TypeScript, and React.
 
 #### [Workforce Planning](https://github.com/mujeeb-k/workforce-planning-agent)
 
-Turns a headcount target, deadline, and budget into a move, reskill, verify, and hire plan over synthetic workforce data. The planning logic and calculations are deterministic; an optional language model explains the results.
+Turns a headcount target, deadline, and budget into a move, reskill, verify, and hire plan over synthetic workforce data. The planning logic and calculations are deterministic, an optional language model explains the results.
 
 [Live demo](https://workforce-planning-agent.streamlit.app/)
 
