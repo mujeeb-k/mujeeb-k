@@ -1,35 +1,24 @@
-### Hi, I'm Mujeeb
+# Hi, I'm Mujeeb
 
-My recent work explores how AI can improve operational processes, gather evidence, and recommend next actions across workforce planning, financial research, and enterprise operations.
+I worked on enterprise AI at SAP. Before that I worked in quantitative finance: valuation, credit risk, and systematic trading.
 
-My earlier work included valuation models, credit risk, and systematic trading projects. That quantitative foundation continues to shape how I think about reliability, uncertainty, and decision-making.
+## Current work
 
----
-### Featured work
-#### [Averroes](https://github.com/mujeeb-k/averroes-public)
+**[League of Agents](https://leagueofagents.dev)**: an open-source canvas for coding agents. It opens a repo as a zoomable map. You point Claude Code, Codex, or Cursor at a file or a block of code, and each run shows on the map as before, after, and diff. Any run can be kept or undone. Apache 2.0, runs locally, macOS for now.
 
-A chat interface with a parallel coach that reviews the user's request after each turn, identifies where it could be clearer, and suggests a revised version. There's a 0->1 mode that offers a multi-turn experience, really effective for brainstorming.
+`npx leagueofagents-cli`
 
-Built with Next.js and FastAPI.
+## Other projects
 
-[Live demo](https://averroes-llm.vercel.app/)
+**[Averroes](https://github.com/mujeeb-k/averroes-public)**: a chat app that reviews your prompt after each reply and suggests a clearer version. A second model does the review, so the main assistant never sees it. A workshop mode helps you work out one good prompt before you start. Next.js and FastAPI. [Live demo](https://averroes-llm.vercel.app/)
 
-#### [AP Three-Way Matching](https://github.com/mujeeb-k/AP-Three-Way-Matching-Agent)
+**[AP Three-Way Matching](https://github.com/mujeeb-k/AP-Three-Way-Matching-Agent)**: when a supplier invoice does not match its purchase order or goods receipt, someone in accounts payable has to work out why. This does that step. It names which of 14 discrepancy types caused the mismatch and recommends correct, review, or escalate. A person approves before anything changes. It runs on synthetic data, so it shows how the workflow behaves, not how accurate it is. SAP CAP, TypeScript, and React.
 
-A public reconstruction of an SAP Accounts Payable workflow using synthetic data. It reconciles invoices, purchase orders, and goods receipts, diagnoses 14 exception types, and routes cases through an approval-gated workflow.
+**[Workforce Planning](https://github.com/mujeeb-k/workforce-planning-agent)**: given a role, a headcount target, a deadline, and a budget, it works out how many people you already have, how many could move or reskill, and how many you would need to hire, with the cost of each. A skill only counts if a manager or a course record backs it. The numbers come from fixed rules, and the language model only writes the explanation. Runs on synthetic data. Python and Streamlit. [Live demo](https://workforce-planning-agent.streamlit.app/)
 
-Built with SAP CAP, TypeScript, and React.
+## Quantitative finance
 
-#### [Workforce Planning](https://github.com/mujeeb-k/workforce-planning-agent)
-
-Turns a headcount target, deadline, and budget into a move, reskill, verify, and hire plan over synthetic workforce data. The planning logic and calculations are deterministic, an optional language model explains the results.
-
-[Live demo](https://workforce-planning-agent.streamlit.app/)
-
----
-### Quantitative finance projects
-
-- **[mbs-val](https://github.com/mujeeb-k/mbs-val)** — Mortgage-backed security valuation
-- **[dtd](https://github.com/mujeeb-k/dtd)** — Distance-to-default using a market-value proxy method and a volatility-constrained method
-- **[us-delinquency-forecast](https://github.com/mujeeb-k/us-delinquency-forecast)** — Forecasting U.S. delinquency rates from economic data
-- **[strat-backtest](https://github.com/mujeeb-k/strat-backtest)** — MATLAB GUI for backtesting an algorithmic strategy (MACD + RSI on Mag 7 names), with position tracking and portfolio P&L
+- [mbs-val](https://github.com/mujeeb-k/mbs-val): mortgage-backed security valuation
+- [dtd](https://github.com/mujeeb-k/dtd): distance-to-default, using a market-value proxy method and a volatility-constrained method
+- [us-delinquency-forecast](https://github.com/mujeeb-k/us-delinquency-forecast): forecasting U.S. delinquency rates from economic data
+- [strat-backtest](https://github.com/mujeeb-k/strat-backtest): MATLAB GUI for backtesting MACD + RSI on Mag 7 names, with position tracking and portfolio P&L
