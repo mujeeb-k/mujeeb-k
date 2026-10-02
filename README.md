@@ -4,11 +4,11 @@ I worked on enterprise AI at SAP. Before that I worked in quantitative finance: 
 
 ## Current work
 
-**[League of Agents](https://leagueofagents.dev)**: coding agents write code faster than anyone can review it, so most changes get skimmed. League of Agents opens your repo as a zoomable map, which is faster to check than a list of files. You point Claude Code, Codex, or Cursor at a file or a block of code, and every change it makes shows up there as before, after, and diff. Each run can be kept or undone in one click.
+**[League of Agents](https://github.com/mujeeb-k/league-of-agents)**: coding agents write code faster than anyone can review it, so most changes get skimmed. League of Agents opens your repo as a zoomable map, which is faster to check than a list of files. You point Claude Code, Codex, or Cursor at a file or a block of code, and every change it makes shows up there as before, after, and diff. Each run can be kept or undone in one click.
 
 Open source under Apache 2.0, League of Agents runs locally and works on macOS for now.
 
-`npx leagueofagents-cli`
+`npx leagueofagents-cli`  or try the demo at https://leagueofagents.dev
 
 ## Other projects
 
