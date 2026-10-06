@@ -1,6 +1,6 @@
 # Hi, I'm Mujeeb
 
-I worked on enterprise AI at SAP. Before that I worked in quantitative finance: valuation, credit risk, and systematic trading.
+I worked on enterprise analytics & AI at SAP. Before that I worked in quantitative finance: credit risk, bond valuation, trading algorithm and cost analysis.
 
 ## Current work
 
