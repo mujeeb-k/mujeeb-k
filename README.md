@@ -20,7 +20,7 @@ Runs locally on macOS. Works with Claude Code; Codex and Cursor support is in be
 npx leagueofagents-cli@latest
 ```
 
-[Try the demo →](https://leagueofagents.dev)
+[Try it here →](https://leagueofagents.dev)
 
 ## Other projects
 
