@@ -2,7 +2,7 @@
 
 I build tools for working with AI, investigating operational problems, and making decisions from data.
 
-Previously, I worked on enterprise analytics and AI at SAP. Before that, I built quantitative finance tools for credit risk, valuation, and trading analysis.
+Previously, I worked on enterprise analytics and AI at SAP. Before that, I built financial models and software to measure portfolio risk, value bonds, and analyze trading performance.
 
 ## Current work
 
