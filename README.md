@@ -1,9 +1,6 @@
 # Hi, I'm Mujeeb
 
-I build tools for working with AI, investigating operational problems, and making decisions from data.
-
-Previously, I worked on enterprise analytics and AI at SAP.
-Before that, I built financial models and software to measure portfolio risk, value bonds, and analyze trading performance.
+I worked on enterprise analytics and AI at SAP. Before that, I built financial models and software to measure portfolio risk, value bonds, and analyze trading performance. I'm currently building applications for working with AI, investigating operational problems, and making decisions from data.
 
 ## Current work
 
