@@ -26,37 +26,33 @@ npx leagueofagents-cli@latest
 
 ### [Averroes](https://github.com/mujeeb-k/averroes-public)
 
-A chat app that gives you feedback on how you ask AI for help.
+A chat app with an AI coach that helps you write clearer prompts. After each reply, the coach checks for missing context and unclear instructions, suggesting a rewrite when useful.
 
-After each reply, a separate coach reviews the exchange, identifies missing context or unclear instructions, and offers a rewritten prompt when the request needs one. Its feedback stays in a side panel; the main assistant never sees it.
+The coach sees the conversation, but the main assistant never sees its feedback. Workshop mode helps you develop a rough idea before starting a conversation, and document uploads provide context to both.
 
-Workshop mode helps you turn a rough idea into a clear prompt before starting a conversation. You can attach documents to give both the assistant and coach the context they need.
-
-**Built with:** Next.js, FastAPI, and SQLite.
+Next.js · FastAPI · SQLite
 
 [Live demo →](https://averroes-llm.vercel.app/)
 
 ### [AP Three-Way Matching](https://github.com/mujeeb-k/AP-Three-Way-Matching-Agent)
 
-When an invoice is blocked by a mismatch, accounts payable still has to investigate: is the price wrong, is a receipt missing, or does the invoice reference the wrong purchase order?
+When an invoice does not match what a company ordered or received, someone has to investigate before it can be paid.
 
-This prototype compares invoices, purchase orders, and goods receipts across 14 discrepancy types. It explains the mismatch, shows the supporting records, and recommends correction, review, or escalation.
+This prototype compares the invoice, purchase order, and delivery records across 14 discrepancy types. It identifies the mismatch, shows the evidence, and recommends a next step. Reviewers can approve a correction, override the recommendation, assign the case, or escalate it, with each decision recorded.
 
-An AP analyst can accept, override, assign, or escalate the recommendation from a work queue. Each case keeps a history of the system's findings and the reviewer's decisions.
+Rules handle matching, tolerances, and routing; AI assists with ambiguous cases. Corrections require human approval, and financial write-back is disabled.
 
-Rules handle matching, tolerances, and routing. AI assists with ambiguous cases. Corrections require human approval; financial write-back is disabled.
-
-**Built with:** SAP CAP, TypeScript, and React. Runs on synthetic data without an API key.
+SAP CAP · TypeScript · React · Synthetic data
 
 ### [Workforce Planning](https://github.com/mujeeb-k/workforce-planning-agent)
 
-A headcount target does not tell you how many people to hire. Some employees already qualify, some could move from another team, and others may need training or skill verification.
+Helps a team decide how to meet a staffing target through internal transfers, training, and external hiring.
 
-Given a role, target, deadline, and budget, this prototype builds a staffing plan: who is ready, who could move, who is one skill away, and how many external hires remain after estimated attrition. It shows the cost and timing of each action and compares the plan with hiring everyone externally.
+Given a role, headcount target, deadline, and budget, it identifies employees who qualify, those who need training or skill verification, and the remaining hiring gap after expected departures. It shows the cost and timing of each action against hiring everyone externally.
 
-Skills need recent manager or course evidence to count as confirmed capability. Unverified records become explicit verification actions. Fixed rules calculate the plan; an optional language model explains it.
+Skills count as confirmed only with recent manager or course evidence. Missing evidence becomes a verification task. Fixed rules calculate the plan; an optional language model explains the results.
 
-**Built with:** Python and Streamlit. Runs on synthetic data without an API key.
+Python · Streamlit · Synthetic data
 
 [Live demo →](https://workforce-planning-agent.streamlit.app/)
 
