@@ -3,7 +3,7 @@
 I worked on enterprise analytics and AI at SAP. Before that, I built financial models and software to measure portfolio risk, value bonds, and analyze trading performance. I'm currently building applications for working with AI, investigating operational problems, and making decisions from data.
 
 <details open>
-<summary><h2>AI &amp; Dev Tools</h2></summary>
+<summary><h2>&nbsp;AI &amp; Dev Tools</h2></summary>
 
 ### League of Agents
 
@@ -31,8 +31,10 @@ Averroes adds a separate AI coach to a chat application. It reviews your convers
 
 </details>
 
+<br>
+
 <details open>
-<summary><h2>Enterprise Applications</h2></summary>
+<summary><h2>&nbsp;Enterprise Applications</h2></summary>
 
 ### AP Three-Way Matching
 
@@ -52,8 +54,10 @@ Given a staffing target and budget, this application identifies qualified employ
 
 </details>
 
+<br>
+
 <details open>
-<summary><h2>Quantitative Finance</h2></summary>
+<summary><h2>&nbsp;Quantitative Finance</h2></summary>
 
 - [mbs-val](https://github.com/mujeeb-k/mbs-val) — Mortgage-backed security valuation
 - [dtd](https://github.com/mujeeb-k/dtd) — Distance-to-default estimation using market-value and volatility-based methods
