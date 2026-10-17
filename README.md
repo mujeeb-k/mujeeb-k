@@ -2,8 +2,7 @@
 
 I worked on enterprise analytics and AI at SAP. Before that, I built financial models and software to measure portfolio risk, value bonds, and analyze trading performance. I'm currently building applications for working with AI, investigating operational problems, and making decisions from data.
 
-<details open>
-<summary><h2>&nbsp;AI &amp; Dev Tools</h2></summary>
+## AI & Dev Tools
 
 ### League of Agents
 
@@ -29,12 +28,7 @@ Averroes adds a separate AI coach to a chat application. It reviews your convers
 
 [Repo](https://github.com/mujeeb-k/averroes-public) · [Demo](https://averroes-llm.vercel.app/)
 
-</details>
-
-<br>
-
-<details open>
-<summary><h2>&nbsp;Enterprise Applications</h2></summary>
+## Enterprise Applications
 
 ### AP Three-Way Matching
 
@@ -52,16 +46,9 @@ Given a staffing target and budget, this application identifies qualified employ
 
 [Repo](https://github.com/mujeeb-k/workforce-planning-agent) · [Demo](https://workforce-planning-agent.streamlit.app/)
 
-</details>
+## Quantitative Finance
 
-<br>
-
-<details open>
-<summary><h2>&nbsp;Quantitative Finance</h2></summary>
-
-- [mbs-val](https://github.com/mujeeb-k/mbs-val) — Mortgage-backed security valuation
-- [dtd](https://github.com/mujeeb-k/dtd) — Distance-to-default estimation using market-value and volatility-based methods
-- [us-delinquency-forecast](https://github.com/mujeeb-k/us-delinquency-forecast) — Forecasting U.S. delinquency rates from economic data
-- [strat-backtest](https://github.com/mujeeb-k/strat-backtest) — MATLAB application for backtesting MACD and RSI strategies with portfolio P&L
-
-</details>
+- [**mbs-val**](https://github.com/mujeeb-k/mbs-val): Mortgage-backed security valuation
+- [**dtd**](https://github.com/mujeeb-k/dtd): Distance-to-default estimation using market-value and volatility-based methods
+- [**us-delinquency-forecast**](https://github.com/mujeeb-k/us-delinquency-forecast): Forecasting U.S. delinquency rates from economic data
+- [**strat-backtest**](https://github.com/mujeeb-k/strat-backtest): MATLAB application for backtesting MACD and RSI strategies with portfolio P&L
