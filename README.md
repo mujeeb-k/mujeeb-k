@@ -2,7 +2,7 @@
 
 I worked on enterprise analytics and AI at SAP. Before that, I built financial models and software to measure portfolio risk, value bonds, and analyze trading performance. I'm currently building applications for working with AI, investigating operational problems, and making decisions from data.
 
-## AI & Dev Tools
+## AI Tools
 
 ### League of Agents
 
