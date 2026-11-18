@@ -20,6 +20,16 @@ Eagleview uses an AI agent to discover how to perform a task, converts the succe
 
 [Repo](https://github.com/mujeeb-k/eagleview-rpa)
 
+### Financial Planning
+
+Blueprint for an interactive financial-planning platform that helps advisors evaluate a client's financial position, model retirement outcomes, and compare financial decisions.
+
+The platform uses Monte Carlo simulations to assess the probability of funding financial goals, evaluates portfolio resilience against historical market downturns, and identifies actionable planning alternatives. Advisors can explore trade-offs involving retirement timing, spending, savings, and major financial goals, with changes reflected across projections and risk assessments.
+
+The goal is to make financial planning more transparent, efficient, and decision-oriented for both advisors and their clients.
+
+[Repo](https://ryse-financial-advisor.streamlit.app/)
+
 ### Workforce Planning
 
 Companies can meet staffing targets by hiring externally, moving existing employees, or training people for new roles. Finding the right combination requires understanding available skills, costs, and deadlines.
