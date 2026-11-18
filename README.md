@@ -1,10 +1,10 @@
 # Hi, I'm Mujeeb
 
-I worked on enterprise analytics and AI at SAP. Before that, I built financial models and software to measure portfolio risk, value bonds, and analyze trading performance. I'm now training agents with reinforcement learning
+I worked on enterprise analytics and AI at SAP. Before that, I built financial models and software to measure portfolio risk, value bonds, and analyze trading performance. I'm now researching and experimenting with AI/SI
 
 ## Research
 
-### Right Actions, Incomplete Evidence: Post-Training a Small Language Model in a Stateful Accounts Payable Environment
+### Post-Training a Small Language Model in a Stateful Accounts Payable Environment
 
 Designed and released a stateful reinforcement-learning environment for accounts-payable LLM agents: business simulator, rule-based grader, procedural case generator and frozen evaluation sets.
 
