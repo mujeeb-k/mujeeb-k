@@ -28,7 +28,7 @@ The platform uses Monte Carlo simulations to assess the probability of funding f
 
 The goal is to make financial planning more transparent, efficient, and decision-oriented for both advisors and their clients.
 
-[Repo](https://ryse-financial-advisor.streamlit.app/)
+[Demo](https://ryse-financial-advisor.streamlit.app/)
 
 ### Workforce Planning
 
